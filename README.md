@@ -5,5 +5,5 @@ Fesc models, either beta-fesc: Chisholm+22, or constant (for the former beta-MUV
 
 If you find this code useful please cite [Muñoz+24](https://arxiv.org/abs/2404.07250). The code reproduces Figure 1 there:
 <p align="center">
-<img src="EoR_Plot.pdf" width=50% height=50%>
+<img src="EoR_Plot.png" width=50% height=50%>
 </p>
